@@ -5,11 +5,11 @@
 #
 # Installation: http://matplotlib.org/users/installing.html
 # Unter Linux war noch folgendes notwendig:
-#     cd /usr/bin
-#     rm python
-#     ln -s python3.4 python
 #     apt-get install python3-matplotlib
 #     apt-get install python3-tk
+#
+# Auf MAC
+#	python3 -m pip install matplotlib
 #
 
 import matplotlib.pyplot as plt
