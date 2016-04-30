@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# -----------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
 # Sample zum Plotten eines Graphen
 #
 # Installation: http://matplotlib.org/users/installing.html
